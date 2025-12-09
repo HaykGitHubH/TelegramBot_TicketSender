@@ -1,5 +1,4 @@
 # TelegramBot_TicketSender
-TicketSender
 <img width="488" height="187" alt="1" src="https://github.com/user-attachments/assets/08203715-fd02-4837-b212-249c296ff5f6" />
 
 📩 Telegram Bot for Monitoring Open Tickets
